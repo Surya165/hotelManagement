@@ -1,2 +1,0 @@
-# hotelManagement
-sql project code
